@@ -13,7 +13,7 @@ It is measured based on these categories:
 * Sales representatives
 * Bike Category
 ## Findings
-#### Find the Tableau interactive dashboard here! [Tableau](https://public.tableau.com/app/profile/kiarie/viz/BikeStoresDashboard_16790513720390/Dashboard2)
+#### Find the Tableau interactive dashboard here!
 
 ![glance](https://github.com/Kiariemuiruri/SQL-Excel-Tableau-BikesStore-Analysis/blob/main/Dashboard%202.png)
 
